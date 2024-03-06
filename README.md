@@ -1,6 +1,6 @@
 ### About Me
 <p>Hi coders! I am a <a href="https://twitter.com/search?q=%23WindowsInsider&src=hashtag_click">#WindowsInsider</a> FAN, who love new feature / Modern UI. And I am Developing HTML Website.</p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=GaoZi2014&show_icons=true&theme=cobalt"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=GaoZi2014&show_icons=true&theme=cobalt">
 <!--
 **GaoZi2014/GaoZi2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
