@@ -8,7 +8,12 @@
 </div>
 <hr>
 <h3>My Social Media</h3>
-<h3> I am coding</h3>
+
+[Twitter](https://twitter.com/Jiege_50615)
+<br>
+[Bsky](https://bsky.app/profile/jiege-insider.bsky.social)
+<hr>
+<h3> I am using</h3>
 <div>
   <div style="display: flex;">
     <img src="/assets/html.svg" style="vertical-align: top;" />
