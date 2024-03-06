@@ -16,8 +16,10 @@
 <h3> I am using</h3>
 <div>
   <div style="display: flex;">
-    <img src="/assets/html.svg" style="vertical-align: top;" />
-    <img src="/assets/css.svg">
-    <img src="/assets/javascript.svg">
+    <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+    <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+    <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+    <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+    <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   </div>
 </div>
