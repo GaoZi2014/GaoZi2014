@@ -9,4 +9,10 @@
 <hr>
 <h3>My Social Media</h3>
 <h3> I am coding</h3>
-![HTML5](./assets/html.svg) ![CSS3](./assets/css.svg)![JavaScript](./assets/javascript.svg)
+<div>
+  <div style="display: flex;">
+    <img src="/assets/html.svg" style="vertical-align: top;" />
+    <img src="/assets/css.svg">
+    <img src="/assets/javascript.svg">
+  </div>
+</div>
