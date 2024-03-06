@@ -3,6 +3,7 @@
 <div>
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaoZi2014&layout=compact&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=dda15e" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GaoZi2014&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=dda15e" />
   </div>
 </div>
 <hr>
