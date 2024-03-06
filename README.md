@@ -6,7 +6,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=GaoZi2014&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=dda15e" />
   </div>
 </div>
-<br>
 <hr>
-<br>
 <h3>My Social Media</h3>
