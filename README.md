@@ -15,7 +15,7 @@
 <hr>
 <h3> I am using</h3>
 <div>
-  <div style="display: flex;">
+  <div style="display: flex; flex-wrap: wrap;">
     <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
     <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
     <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
