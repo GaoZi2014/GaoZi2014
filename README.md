@@ -24,12 +24,12 @@
     <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   </div>
 </div>
+<hr>
 
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/GaoZi2014/GaoZi2014/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/GaoZi2014/GaoZi2014/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
