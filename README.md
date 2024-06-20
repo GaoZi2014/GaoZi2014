@@ -29,10 +29,9 @@
 ###
 
 <br clear="both">
-![snake animation](https://github.com/GaoZi2014/GaoZi2014/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Hello World!</p>
 
 ###
