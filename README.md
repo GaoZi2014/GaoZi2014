@@ -1,17 +1,17 @@
 ### About Me
 <p>A Windows Insider Program fan. Love developing in HTML5, and always looking for ways to improve my workflow. I’ve been experimenting with some new tools and techniques lately. Interested in how others are improving their workflow and what they think of my new approach. I’m confident I can help others optimize their own HTML5 development process. Maybe we can share some ideas and help each other out.</p>
+
+###
+
 <div>
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaoZi2014&layout=compact&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2d2d2d" style="vertical-align: top;" />
     <img src="https://github-readme-stats.vercel.app/api?username=GaoZi2014&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2d2d2d" />
   </div>
 </div>
-<hr>
-<h3>My Social Media</h3>
 
-[Twitter](https://twitter.com/Jiege_50615)
-<br>
-[Bsky](https://bsky.app/profile/jiege-insider.bsky.social)
+###
+
 <hr>
 <h3> I am using</h3>
 <div>
@@ -24,3 +24,15 @@
     <img style="width: 60px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   </div>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/GaoZi2014/GaoZi2014/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
