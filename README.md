@@ -1,5 +1,5 @@
 ### About Me
-<p>Hi coders! I am a <a href="https://twitter.com/search?q=%23WindowsInsider&src=hashtag_click">#WindowsInsider</a> FAN, who love new feature / Modern UI. And I am Developing HTML Website.</p>
+<p>A Windows Insider Program fan. Love developing in HTML5, and always looking for ways to improve my workflow. I’ve been experimenting with some new tools and techniques lately. Interested in how others are improving their workflow and what they think of my new approach. I’m confident I can help others optimize their own HTML5 development process. Maybe we can share some ideas and help each other out.</p>
 <div>
   <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaoZi2014&layout=compact&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=2d2d2d" style="vertical-align: top;" />
