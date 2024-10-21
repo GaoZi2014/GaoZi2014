@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">nihao你好</p>
+<p align="left">Heelo Wolrd</p>
 <p align="left">Fun fact: I drink water</p>
 
 ###
