@@ -29,7 +29,6 @@
 ###
 
 <p align="left">nihao</p>
-<br>
 <p align="left">Fun fact: I drink water</p>
 
 ###
