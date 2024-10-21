@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">nihao</p>
+<p align="left">nihao你好</p>
 <p align="left">Fun fact: I drink water</p>
 
 ###
