@@ -1,5 +1,5 @@
 ### About Me
-<p>A Windows Insider Program fan and also a Chinese person. Love developing in HTML5, and always looking for ways to improve my workflow. I’ve been experimenting with some new tools and techniques lately. Interested in how others are improving their workflow and what they think of my new approach. I’m confident I can help others optimize their own HTML5 development process. Maybe we can share some ideas and help each other out.</p>
+<p>A small coder in Github. I love Windows and Android and a proficient in HTML and other web programming. Keep up the good work in 2025!.</p>
 
 ###
 
